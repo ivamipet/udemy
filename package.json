@@ -1,0 +1,18 @@
+{
+  "name": "03-basenodejs",
+  "version": "1.0.0",
+  "description": "Genera un archivo con la tabla de multiplicar de una base entregada",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan Perez",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
